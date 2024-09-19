@@ -2677,7 +2677,8 @@ https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/merdeka24-mainkv-800x450.jpg" group-title="Malay",Astro Inilah Kita https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_ott.mpd
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/merdeka24-mainkv-800x450.jpg" group-title="Malay",Astro Inilah Kita 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
