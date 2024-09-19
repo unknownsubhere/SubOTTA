@@ -2680,8 +2680,7 @@ https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/merdeka24-mainkv-800x450.jpg" group-title="Malay",Astro Inilah Kita 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_ott.mpd
 
-#EXTINF:-1 group-title="Malay" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" 
-tvg-logo="https://i.postimg.cc/R09dG9fL/images-54.png",Astro Kita Ch100 
+#EXTINF:-1 group-title="Malay"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Astro_First_%282024%29.png,Astro First Ch200 
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_ott.mpd 
